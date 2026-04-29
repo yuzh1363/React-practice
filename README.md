@@ -1,2 +1,4 @@
 - my-react-todo：使用 React 練習簡單 TodoList
 - react-practice01：React 基礎練習，熟悉語法
+- fetchapi-practice：練習串接公開API取得貼文資料，練習使用 Tailwind 排版
+    - 載入中畫面沒有被渲染，原因：map()沒有寫 return 導致卡片渲染沒成功
